@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "mariami",
+    "LastName": "natchkebia",
+    "UserName": "natchke",
+    "Password": "1234",
+    "HighScore": 0
+  },
+  {
+    "Id": 2,
+    "FirstName": "mariami",
+    "LastName": "lomidze",
+    "UserName": "volki",
+    "Password": "1234",
+    "HighScore": 100
+  },
+  {
+    "Id": 3,
+    "FirstName": "ilona",
+    "LastName": "bedia",
+    "UserName": "bedo",
+    "Password": "1234",
+    "HighScore": 100
+  },
+  {
+    "Id": 4,
+    "FirstName": "giorgi",
+    "LastName": "natchkebia",
+    "UserName": "gionatchke",
+    "Password": "giorguna",
+    "HighScore": 0
+  },
+  {
+    "Id": 5,
+    "FirstName": "mariami",
+    "LastName": "chixladze",
+    "UserName": "chikhla",
+    "Password": "12345",
+    "HighScore": 100
+  },
+  {
+    "Id": 6,
+    "FirstName": "mariami",
+    "LastName": "tsintsadze",
+    "UserName": "tsintsa",
+    "Password": "1234",
+    "HighScore": 100
+  }
+]

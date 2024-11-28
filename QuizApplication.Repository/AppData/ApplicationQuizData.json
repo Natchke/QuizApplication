@@ -1,0 +1,173 @@
+[
+  {
+    "QuizTitle": "gamotvale",
+    "Creator": "natchke",
+    "CreatorId": 1,
+    "QuizQuestions": [
+      {
+        "QuestionText": "4*5=?",
+        "Options": [
+          "25",
+          "20",
+          "30",
+          "14"
+        ],
+        "CorrectAnswer": "20"
+      },
+      {
+        "QuestionText": "6*4=?",
+        "Options": [
+          "20",
+          "21",
+          "24",
+          "28"
+        ],
+        "CorrectAnswer": "24"
+      },
+      {
+        "QuestionText": "3*8=?",
+        "Options": [
+          "24",
+          "9",
+          "56",
+          "18"
+        ],
+        "CorrectAnswer": "24"
+      },
+      {
+        "QuestionText": "aq iyo 4 *9 gaxda 7+6",
+        "Options": [
+          "23",
+          "13",
+          "34",
+          "11"
+        ],
+        "CorrectAnswer": "13"
+      },
+      {
+        "QuestionText": "8*7=?",
+        "Options": [
+          "80",
+          "56",
+          "72",
+          "78"
+        ],
+        "CorrectAnswer": "72"
+      }
+    ]
+  },
+  {
+    "QuizTitle": "romelia didi aso",
+    "Creator": "natchke",
+    "CreatorId": 1,
+    "QuizQuestions": [
+      {
+        "QuestionText": "a b C d ",
+        "Options": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "CorrectAnswer": "3"
+      },
+      {
+        "QuestionText": "c S j k",
+        "Options": [
+          "1",
+          "3",
+          "4",
+          "2"
+        ],
+        "CorrectAnswer": "2"
+      },
+      {
+        "QuestionText": "c s j K",
+        "Options": [
+          "3",
+          "1",
+          "2",
+          "4"
+        ],
+        "CorrectAnswer": "4"
+      },
+      {
+        "QuestionText": "c s J k",
+        "Options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "CorrectAnswer": "3"
+      },
+      {
+        "QuestionText": "W s c k",
+        "Options": [
+          "2",
+          "3",
+          "1",
+          "4"
+        ],
+        "CorrectAnswer": "1"
+      }
+    ]
+  },
+  {
+    "QuizTitle": "vici? arvici",
+    "Creator": "natchke",
+    "CreatorId": 1,
+    "QuizQuestions": [
+      {
+        "QuestionText": "rodis moxda didgoris brdzola",
+        "Options": [
+          "1112",
+          "1121",
+          "1212",
+          "1221"
+        ],
+        "CorrectAnswer": "1121"
+      },
+      {
+        "QuestionText": "sad mokles ilia",
+        "Options": [
+          "tsitsamurtan ",
+          "abanotubanTan ",
+          "cocxalia",
+          "mcxeTis gadasaxvevTan "
+        ],
+        "CorrectAnswer": "tsitsamurtan "
+      },
+      {
+        "QuestionText": "sad aris dakrdzaluli akaki wereTeli ",
+        "Options": [
+          "mshobliur sofelshi ",
+          "didubis panteonshi ",
+          "vakis sasaflaoze ",
+          "mTawmindis panteonshi "
+        ],
+        "CorrectAnswer": "mshobliur sofelshi "
+      },
+      {
+        "QuestionText": "vin daarsa tbilisi",
+        "Options": [
+          "vaxtang gorgasalma",
+          "abo tbilelma",
+          "shushanikma",
+          "vazha fshavelam"
+        ],
+        "CorrectAnswer": "vaxtang gorgasalma"
+      },
+      {
+        "QuestionText": "romel damwerlobas vikenebt dges",
+        "Options": [
+          "megruli",
+          "asomtavruli",
+          "nusxuri",
+          "mxedruls "
+        ],
+        "CorrectAnswer": "mxedruls "
+      }
+    ]
+  }
+]

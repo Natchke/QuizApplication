@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2D+tbKbbfw76xa6W/SuDipTC+oNyLYm5v8O6D3FsJ254phs8xJFo4TZkHaYsDC+0nP6leLUZncCVoMAHlhcBZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\QuizApplication1\\QuizApplication.Repository\\QuizApplication.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

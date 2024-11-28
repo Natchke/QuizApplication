@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\bin\Debug\net8.0\QuizApplication.Repository.deps.json
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\bin\Debug\net8.0\QuizApplication.Repository.dll
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\bin\Debug\net8.0\QuizApplication.Repository.pdb
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\bin\Debug\net8.0\QuizApplication.Models.dll
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\bin\Debug\net8.0\QuizApplication.Models.pdb
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.csproj.CopyComplete
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.dll
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\refint\QuizApplication.Repository.dll
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\QuizApplication.Repository.pdb
+C:\Users\lenovo\source\repos\QuizApplication1\QuizApplication.Repository\obj\Debug\net8.0\ref\QuizApplication.Repository.dll
